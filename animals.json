@@ -1,0 +1,902 @@
+[
+    {
+        "animalId": "an_0000",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0047.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0047/640_480.jpg",
+        "name": "イヌ",
+        "description": "家畜種。各国のケンネルクラブなどで公認されている品種は約200種ほどだが、それ以外を含めると、世界には数百種にのぼる品種がある。人間による品種改良によって、その大きさは、チワワのような小型のものから、体高が1メートルほどもある大型のものまでと、品種によって大きく異なる。骨格や行動などの特徴から、イヌの祖先はオオカミであろうといわれている。狩猟に役立てるため、約1万4000年ほど前から人間が家畜化したらしい。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0001",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0131.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0131/640_480.jpg",
+        "name": "ウシ",
+        "description": "家畜種。約200品種あるが、ヨーロッパのこぶのないものと、アジアのこぶのあるものと、大きく二つに分けられる。大きさは、肩高150～180センチメートル、体重0.45～1.8トン。北極圏や南極などの極寒地をのぞき、世界中で飼育されている。ウシの家畜化は、約9000年前の中東から始まったといわれる。当初はそのつのが豊穣（ほうじょう）の象徴とされ、重要視された。のちに使役用にも使われるようになったが、乳製品や食肉用、皮革などに注目されたのは、かなり後である。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0002",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0109.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0109/640_480.jpg",
+        "name": "ウマ",
+        "description": "家畜種である。品種数は約200。大きさは、ポニーなどの小型のものから、体長2メートルほどの大型のものまで。野生化したものは数十種があり、頭が大きくずんぐりした体形である。ウマの家畜化はおよそ5000年ほど前から始まった。走るのが速いので乗馬に利用されたり、力が強いのでばんばに改良されたりしてきた。また、ポニーのような愛玩用の品種もある。ウマの原種はモウコノウマだと考えられるが、そのモウコノウマも現在では、純粋に野生であるものは絶滅してしまった。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0003",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0118.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0118/640_480.jpg",
+        "name": "カバ",
+        "description": "母と子を中心とした群れをつくり、1頭のオスがそのまわりになわばりをもつ。日中は水中で休み、夜になると陸に上がって草を食べる。糞（ふん）を尾で払いとばし、糞の塚（つか）をつくってなわばりの目印にする。皮ふからピンクの液体を分泌し、皮ふの乾燥や細菌の感染を防ぐ。",
+        "category": "ほ乳類",
+        "size": "3.3～3.5m"
+    },
+    {
+        "animalId": "an_0004",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0056.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0056/640_480.jpg",
+        "name": "ニホンツキノワグマ",
+        "description": "ツキノワグマの亜種（あしゅ）で、中型のクマ。胸に月の輪のような白い模様があるが、ないものもいる。カキが大好物。木登りがじょうず。木のうろや岩穴で冬ごもりをし、メスはそのあいだに1～3頭の子を出産する。おだやかな性質で、積極的に人をおそうことはない。",
+        "category": "ほ乳類",
+        "size": "140cm"
+    },
+    {
+        "animalId": "an_0005",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0112.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0112/640_480.jpg",
+        "name": "シロサイ",
+        "description": "つのは2本で、前のつのの長さは約60～160センチメートル。口は平らで広く、地面の草を食べるのに適している。この口のワイド（広い）をホワイト（白）と聞きちがえて、シロサイとよぶようになったといわれる。社会性があり、群れをなす傾向が強い。決まった場所に糞（ふん）をする習性がある。",
+        "category": "ほ乳類",
+        "size": "オス3.7～4m　メス3.4～3.7m"
+    },
+    {
+        "animalId": "an_0006",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0035.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0035/640_480.jpg",
+        "name": "ニホンザル",
+        "description": "サルの仲間では最も北限に分布し、青森の雪の中でも元気に生活している。20～200頭の群れをつくり、大きなオスがリーダーとなる。群れの乗っ取りや分裂、消滅など、人間社会によく似た変動がよくある。",
+        "category": "ほ乳類",
+        "size": "50～70cm"
+    },
+    {
+        "animalId": "an_0007",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0123.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0123/640_480.jpg",
+        "name": "ニホンジカ",
+        "description": "つのはオスだけにあり、4～5月は袋づので、9月には完成する。秋から冬にかけて10頭ほどの群れをつくる。それ以外はメスと子と若いオスの群れは、オスの集団とは別行動をとる。雪の多い地方に生息する群れは、季節移動をする。",
+        "category": "ほ乳類",
+        "size": "110～170cm"
+    },
+    {
+        "animalId": "an_0008",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0105.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0105/640_480.jpg",
+        "name": "アフリカゾウ",
+        "description": "陸生動物では世界最大。耳は大きなもので幅1メートル、長さ1.7メートル。牙は最長4メートル以上の例がある。体色は若いときは灰黒色で、歳とともに桃白色になる。20～50頭の群れで生活し、メスが群れを統一する。ひづめは前足に4個、後ろ足に3個で、アジアゾウより1個ずつ少ない。絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": " "
+    },
+    {
+        "animalId": "an_0009",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0085.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0085/640_480.jpg",
+        "name": "トド",
+        "description": "体色は、オスとメスともに明るいかっ色か赤かっ色で、たてがみがある。下毛はほとんどない。オスは10～20頭のメスをしたがえてハーレムをつくり、繁殖期間中は食事をとらない。8月頃にハーレムを解消し、9月頃に南下する。日本にやってくるトドは、約2000頭といわれる。環境省のレッドリストの準絶滅危惧に指定されている。",
+        "category": "ほ乳類",
+        "size": "オス3.2～4m 　メス2.3～3m"
+    },
+    {
+        "animalId": "an_0010",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0082.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0082/640_480.jpg",
+        "name": "ベンガルトラ",
+        "description": "黄かっ色に黒い縦じまの美しい模様は、木陰などにひそむと保護色となる。水浴を好む。おもに夜行性だが、日中も狩りをする。インドでホワイトタイガーが発見されたが、眼が青く、不完全なアルビノとのことである。絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": "オス2.7～3.1m　メス2.4～2.8m"
+    },
+    {
+        "animalId": "an_0011",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0075.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0075/640_480.jpg",
+        "name": "イエネコ",
+        "description": "家畜種である。品種協会などで認定されているのは約40種ほど。大きさはイヌほど差異はなく、体長30～60センチメートルぐらい。人間による家畜化の起源は定かではないが、およそ紀元前3000～2500年にえがかれたエジプトの壁画にまでさかのぼれるだろう。ネズミなどの害獣駆除のためだけでなく、神としての要素もあったようだ。イエネコのおもな祖先はリビアネコだといわれる。しかし、家畜化され、さまざまに品種改良されたため、現在はリビアネコの特徴は一部の品種にしか見られない。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0012",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0110.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0110/640_480.jpg",
+        "name": "マレーバク",
+        "description": "バクの中で最大種。ひづめは前足が4個、後ろ足が3個。胴の中央部が灰白色、ほかは黒色という体色は、他の動物から見つかりにくい保護色となっている。湖や河川のそばの森林に生息。水中で泳いだりもぐったりがうまい。夜行性。子はイノシシの瓜坊に似る。絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": "2.3～2.5m"
+    },
+    {
+        "animalId": "an_0013",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0037.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0037/640_480.jpg",
+        "name": "マントヒヒ",
+        "description": "鼻は長くてピンク色、顔の両側に長毛が生え、オスは前半身をおおう長毛があたかもマントのようである。尻だこは大きく、100頭ほどの群れをつくり、岩場の崖（がけ）などで眠る。群れの社会構造はとても複雑である。植物を食べながら、1日に数キロメートルを移動する。",
+        "category": "ほ乳類",
+        "size": "オス70～80cm　メス55～65cm"
+    },
+    {
+        "animalId": "an_0014",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0116.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0116/640_480.jpg",
+        "name": "ブタ",
+        "description": "家畜種である。各種のイノシシから家畜化、改良されたものだと考えられる。約250品種があり、登録協会認定の種（しゅ）は約90品種。大きさは、体高最大1メートル、体重は200キログラムほどにもなる。ブタの家畜化は約9000年前からで、人間の定住化にともない、おもに食肉用として始まった。最近ではペット用の小さな品種もつくられている。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0015",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0137.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0137/640_480.jpg",
+        "name": "ヤギ",
+        "description": "家畜種である。品種数は200をこえる。肩高は40～100センチメートル、体重は10～100キログラム。世界中で飼育されている。野生化したものはニュージーランドが一番多い。ヤギの好物は若い木の芽だが、ウシやブタよりもずっと足や口がじょうぶで、崖（がけ）や岩場だらけの荒れた土地で、かたい木の枝なども食べてしまう。そのおかげで、ウシなどを飼うゆとりのない人々には、食糧や衣類の貴重な供給源となってきた。そのいっぽうで、野生化してしまったヤギたちによる環境破壊も問題になっている。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0016",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0119.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0119/640_480.jpg",
+        "name": "ラマ",
+        "description": "体色は茶色、黒色、白色などさまざまで、頭、あご、足をのぞく部分は長毛でおおわれる。前足の内側にはたこがある。怒ると胃の内容物をはきかけることもある。家畜種であり、グアナコが原種だといわれるが、はっきりしたことはわからない。",
+        "category": "ほ乳類",
+        "size": "2.25m"
+    },
+    {
+        "animalId": "an_0017",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0145.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0145/640_480.jpg",
+        "name": "シマリス",
+        "description": "秋になると、貯蔵用の食物であるドングリなどの木の実をほお袋につめ、地下の冬眠用の巣に運ぶ。地面に浅い穴を掘り、あちこちに食物を埋めて貯蔵する場合もある。冬眠中は枯れ葉にくるまって眠り、ときどき目覚めては貯蔵しておいた食物を食べ、尿と糞（ふん）をする。",
+        "category": "ほ乳類",
+        "size": "12～23cm"
+    },
+    {
+        "animalId": "an_0018",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0107.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0107/640_480.jpg",
+        "name": "ロバ",
+        "description": "家畜種。原種のアフリカノロバには3亜種（あしゅ）があったが、そのうち野生として現存しているのはソマリノロバだけである。大きさは、体高0.9～1.5メートル、体長2～2.2メートル、体重250キログラム前後。耳が長く、馬と異なり尾が40～50センチメートルと長く、先のほうに長い毛がある。たてがみはウマよりもふぞろいである。世界中で飼育されているが、アフリカ、中央・南アメリカなどの乾燥地帯に多い。長期間水を飲まなくても耐え、粗食で暑さにも強いため家畜化されたもので、その起源は5000～6000年前といわれる。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0019",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0086.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0086/640_480.jpg",
+        "name": "オーストラリアアシカ",
+        "description": "体色は、オスは黒かっ色、メスは銀灰色で顔全体が白っぽく、かわいらしい顔つきをしている。オスはメスの口に口を近づけにおいをかぐが、発情の有無や仲間どうしの確認のためという。ハーレムは小規模。生息数は少なく2000～3000頭。魚やイカ、ペンギンなどを食べる。",
+        "category": "ほ乳類",
+        "size": "オス2m　メス150cm"
+    },
+    {
+        "animalId": "an_0020",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0064.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0064/640_480.jpg",
+        "name": "ニホンイタチ",
+        "description": "タイリクイタチの亜種（あしゅ）だという説もある。メスはオスよりずいぶん小さい。ネズミ、昆虫、魚、鳥などを食べる。「イタチの小便づけ」といって、魚に尿をかけて、巣の中にたくわえるという説もある。単独で生活。「イタチの最後っぺ」として知られるくさい液を、肛門から発する。",
+        "category": "ほ乳類",
+        "size": "オス30～37cm　メス20～27cm"
+    },
+    {
+        "animalId": "an_0021",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0093.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0093/640_480.jpg",
+        "name": "マイルカ",
+        "description": "数十頭から数千頭もの群れをつくる。小型のイルカで、イワシ、ニシン、イカなどを食べる。群れで魚群の下に入りこみ、水面に追い上げて狩りをすることもある。好奇心がおうせいで、スピードもあるので、船首の前を競走しながら泳いだり、跳びはねたりする。",
+        "category": "ほ乳類",
+        "size": "オス2.2m　メス2.1m"
+    },
+    {
+        "animalId": "an_0022",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0161.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0161/640_480.jpg",
+        "name": "カイウサギ",
+        "description": "家畜種である。カイウサギとアナウサギは同一種。つまりアンゴラウサギやテーブルウサギなど、カイウサギの全品種はアナウサギからつくられた。バリエーションを含め、その種類は150にもおよぶ。体長は30～60センチメートル、体重は1～4.5キログラム。アナウサギは、古くから食用としてとらえられ、飼育されていた。11～12世紀には修道院での飼育が盛んとなり、本当の意味での家畜化が始まった。現在ではウサギというと、おもに愛玩用か毛皮用だが、家畜化の最初の目的は食用である。",
+        "category": "ほ乳類",
+        "size": "30～60cm"
+    },
+    {
+        "animalId": "an_0023",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0126.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0126/640_480.jpg",
+        "name": "オカピ",
+        "description": "耳はロバ、腰や足の模様はシマウマに似る。かつてはウマの仲間とされていたが、その後の研究でキリンの仲間だということがわかった。キリンと同じように、長い舌で木の葉などを巻きこんで食べる。オスには皮ふでおおわれた、2本の短いつのがある。単独で生活する。",
+        "category": "ほ乳類",
+        "size": "1.9～2m"
+    },
+    {
+        "animalId": "an_0024",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0050.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0050/640_480.jpg",
+        "name": "アカギツネ",
+        "description": "子育ての形態は、夫婦だけでするもの、母と子に複数のオスとメスが同居してするもの、母と子と成獣のメスでするものなどさまざま。おもに夜行性だが、危険がないと日中も行動し、なれると人の手からえさをもらうようになる。日本のホンドギツネは別種ともいわれる。",
+        "category": "ほ乳類",
+        "size": "65～90cm"
+    },
+    {
+        "animalId": "an_0025",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0127.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0127/640_480.jpg",
+        "name": "ザンベジキリン",
+        "description": "大型だが、つのまでの高さは最大で5.7メートルまで。キリンは初めから終わりまで、ずっと立ったままで出産する。そのため、生まれてくる子は約2メートルの高さから、地上に落とされることになる。しかし、長い体が弓なりにそって落ちるので、落下のショックは少ない。",
+        "category": "ほ乳類",
+        "size": "3.8～4.7m"
+    },
+    {
+        "animalId": "an_0026",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0102.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0102/640_480.jpg",
+        "name": "ザトウクジラ",
+        "description": "尾びれの裏側の多様な模様で個体を識別できる。胸びれは長い。季節にともなって回遊し、アラスカのものは冬は出産と育児のため、ハワイなどの暖かい海へ移動する。オスは繁殖期に「歌」をくりかえし歌う。潮吹きを3～4回した後に潜水する。絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": "オス12.9m　メス13.7m"
+    },
+    {
+        "animalId": "an_0027",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0044.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0044/640_480.jpg",
+        "name": "マウンテンゴリラ",
+        "description": "現在の生息数は1000頭にも満たないと推定される。山地のアザミやイラクサなどの植物を食べる。オスは成獣になると背中が灰白色になり、頭がヘルメット状にもり上がってくる。ウェスタンローランドゴリラよりも前足が短く、顔の幅もせまく長く見える。絶滅が危惧（きぐ）されている。収録されている音声は、胸をたたくドラミングの音。",
+        "category": "ほ乳類",
+        "size": "オス170cm　メス150cm"
+    },
+    {
+        "animalId": "an_0028",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0096.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0096/640_480.jpg",
+        "name": "シャチ",
+        "description": "社会性が高く、さまざまなコミュニケーション行動が見られる。1頭のオスを含む3～25頭の群れをなし、生まれた子はオスもメスも母親のいる群れに一生とどまる。クジラ殺しの英名をもち、追われて疲れたクジラが舌を出したところを食いつき殺す、といわれる。",
+        "category": "ほ乳類",
+        "size": "オス6.7～7m　メス6～6.5m"
+    },
+    {
+        "animalId": "an_0029",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0054.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0054/640_480.jpg",
+        "name": "タヌキ",
+        "description": "アナグマの古巣にすむことがあり、顔もアナグマに似ているのでよくまちがえられる。木登り犬ともいわれ、高い木に登り、カキやビワなどを食べる。人家の近くにも出没する。オスは子が生まれると、えさを運び、グルーミングをして、遊んでやり、熱心に育児をする。",
+        "category": "ほ乳類",
+        "size": "50～70cm"
+    },
+    {
+        "animalId": "an_0030",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0150.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0150/640_480.jpg",
+        "name": "アカネズミ",
+        "description": "野ネズミの代表種であり、日本のネズミ類では最も優勢。夏毛は黄かっ色から赤かっ色で、冬毛は暗色になる。夜行性で単独性。落ち葉の下にうもれた昆虫や種子、果実などを見つけて食べる。地中に巣穴をつくり、クリ、ドングリなどを10リットルほどたくわえる。",
+        "category": "ほ乳類",
+        "size": "8.5～14cm"
+    },
+    {
+        "animalId": "an_0031",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0063.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0063/640_480.jpg",
+        "name": "ジャイアントパンダ",
+        "description": "手のひらにこぶがあり、物をじょうずにつかむ。姿はクマに似ているが、動作はかなりおっとりしている。冬眠はしない。タケ、タケノコ、ササを主食とし、1日のうち14時間近くを食事についやす。単独でひっそりと生活している。繁殖がむずかしく、絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": "120～150cm"
+    },
+    {
+        "animalId": "an_0032",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0138.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0138/640_480.jpg",
+        "name": "ヒツジ",
+        "description": "家畜種である。品種数は約300ほど。世界各地で飼育されているが、オーストラリアやニュージーランド、南アメリカなどがとくに多い。大きさは、肩高40～85センチメートル、体重20～150キログラム。紀元前9000年には、イスラエルなど中近東の農耕地域で家畜化されたと思われる。各種の野生ヒツジの遺伝子がどのような割合で受けつがれているかは定かではない。ヒツジといえば羊毛だが、野生ヒツジの毛はあらく、量も少ないため、家畜化の初期は食肉や毛皮、つのなどの用途のほうが多かったかもしれない。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0033",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0081.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0081/640_480.jpg",
+        "name": "ヒョウ",
+        "description": "体色は淡い黄かっ色で、黒い斑点がある。木登りがじょうずで、えものを樹上に引き上げて食べる。インド南部やマレー半島で多く生まれるクロヒョウは、同種の色変わりで、よく見るとちゃんと斑点模様がある。",
+        "category": "ほ乳類",
+        "size": "100～190cm"
+    },
+    {
+        "animalId": "an_0034",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0018.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0018/640_480.jpg",
+        "name": "アズマモグラ",
+        "description": "原始的な哺乳類。眼は退化し、明暗を感じる程度。そのかわり、優れた感覚毛である口ひげが発達している。シャベルのような手足で土を掘り、地中にすむ。地下数十センチメートルから1メートルほどのところに、草や木の葉で球状の巣をつくる。昆虫やミミズを食べる。夜行性。",
+        "category": "ほ乳類",
+        "size": "13.5～14.6cm"
+    },
+    {
+        "animalId": "an_0035",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0152.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0152/640_480.jpg",
+        "name": "ニホンヤマネ",
+        "description": "日本の天然記念物。木の実や種子なども食べるが、昆虫類が大好物。夜行性で単独性。おもに樹上で生活するが、決まった巣やなわばりをもたない。冬眠をするが、食物を貯蔵することはなく、体に脂肪をたくわえて、土中や雪中、樹洞（じゅどう）などで冬をこす。",
+        "category": "ほ乳類",
+        "size": "6～9.6cm"
+    },
+    {
+        "animalId": "an_0036",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0120.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0120/640_480.jpg",
+        "name": "フタコブラクダ",
+        "description": "背中のこぶは脂肪で、長いあいだ食べなくても脂肪からエネルギー補給ができる。まつげが長く、鼻の穴を開閉できるので、眼や鼻に砂が入りにくい。現在、野生のものはアルタイ山脈ふもとのゴビ砂漠に数百頭生存していると思われるが、絶滅が危惧（きぐ）されている。国際保護動物。",
+        "category": "ほ乳類",
+        "size": "1.9～3.3m"
+    },
+    {
+        "animalId": "an_0037",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0071.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0071/640_480.jpg",
+        "name": "ラッコ",
+        "description": "後ろ足に水かきがあり、ひれのようなっている。下毛が2.5センチメートルと長く、寒さに強い。もぐってとった貝をあおむけになって胸にのせ、石でたたいて割る。繁殖期以外は、オスとメスは別の群れでくらす。生まれたばかりの子の体重は2キログラムほどもある。子が小さいときは腹にのせる。環境省のレッドリストの絶滅危惧ⅠA類に指定されている。",
+        "category": "ほ乳類",
+        "size": "60～130cm"
+    },
+    {
+        "animalId": "an_0038",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0029.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0029/640_480.jpg",
+        "name": "アイアイ",
+        "description": "毛はあらく、長さは10センチメートルほど。指が細く、とくに中指ははり金のように細長い。ラミーという木の実をよく食べるが、実（み）のかたいからをかじって穴をあけ、その穴に中指を差しこみ、中身をかき出して食べる。樹上で生活し、夜行性。単独で生活する。絶滅が危惧（きぐ）されている。",
+        "category": "ほ乳類",
+        "size": "40cm"
+    },
+    {
+        "animalId": "an_0039",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0089.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0089/640_480.jpg",
+        "name": "アゴヒゲアザラシ",
+        "description": "体色は灰色か黄かっ色で、腹は淡白色。長く、かたく、太い口ひげがたくさん生え、えものをさがす感覚毛の役目をする。オスよりもメスのほうがやや大きい。オスは繁殖期に、流氷の下の海中で、歌うような声を発する。子は氷の上で生まれるが、なぜか暗灰色をしている。",
+        "category": "ほ乳類",
+        "size": "2～2.3m"
+    },
+    {
+        "animalId": "an_0040",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0014.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0014/640_480.jpg",
+        "name": "オオアリクイ",
+        "description": "鼻づらが長く、歯はない。尾は大きく長い毛が生え、威嚇（いかく）にも使う。舌は約60センチメートルと細長く、粘液を分泌する。アリの巣をこわし、アリを舌の粘液でつかまえて食べる。昼夜ともに活動する。おそわれると、後ろ足で立ち、大きなつめで反撃する。泳ぎがうまい。子を背負う。",
+        "category": "ほ乳類",
+        "size": "100～120cm"
+    },
+    {
+        "animalId": "an_0041",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0117.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0117/640_480.jpg",
+        "name": "イノシシ",
+        "description": "オスの下あごには牙がある。子は瓜坊といわれ、しま模様がある。オスは単独で行動し、メスは一腹の子といっしょにくらす。日中や薄明薄暮時に活動する。泥浴を好み、体を木にこすりつけてダニを落とす。根や地下茎を鼻で掘りおこして食べる。よく鼻がきき、神経質。",
+        "category": "ほ乳類",
+        "size": "140cm"
+    },
+    {
+        "animalId": "an_0042",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0049.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0049/640_480.jpg",
+        "name": "タイリクオオカミ",
+        "description": "分布域が広く、生息域によって約26亜種（あしゅ）に分類され、体色は亜種によりさまざま。おもに夜行性だが、冬は日中も活動する。夫婦とその子からなる4～12頭の小群で生活する。なわばりは広く、群れのメンバー全員で遠ぼえをし、ほかの群れにその存在をアピールする。",
+        "category": "ほ乳類",
+        "size": "100～160cm"
+    },
+    {
+        "animalId": "an_0043",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0155.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0155/640_480.jpg",
+        "name": "カピバラ",
+        "description": "世界最大のげっ歯類。水中や水辺で生活し、足に水かきがあり、泳ぎがうまい。大きなオス1頭と複数のメスと、その子からなる10頭ほどの群れでくらす。乾期には、水場に100頭以上も集まり、群れることがある。草食性で、朝夕に活動する。オスの鼻の上には臭腺がある。",
+        "category": "ほ乳類",
+        "size": "106～134cm"
+    },
+    {
+        "animalId": "an_0044",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0069.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0069/640_480.jpg",
+        "name": "ニホンカワウソ",
+        "description": "毛皮が珍重されて乱獲されたため、生息数はごくわずか。夜行性で恐れられた反面、2本足で立ち上がるとあいきょうがあり、愉快でおとぼけな性格が愛された。伝説動物のカッパのモデルはカワウソだという説がある。体は流線形で茶かっ色、水中を泳ぐのに適して足が短く、指のあいだに水かきがある。決まった場所に軟便をする習性がある。特別天然記念物の指定を受けている。環境省のレッドリストの絶滅に指定されている。",
+        "category": "ほ乳類",
+        "size": "65～82cm"
+    },
+    {
+        "animalId": "an_0045",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0021.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0021/640_480.jpg",
+        "name": "ヤエヤマオオコウモリ",
+        "description": "中型のオオコウモリで原始的。耳は小さい。毛は長く、黒色か茶色で、淡色の首輪模様がある。顔はタヌキに似ている。尾はない。フクギやイヌビワの実（み）などを食べる。糞尿（ふんにょう）を出すときは体を反転させ、前足でぶらさがる。沖縄、大東島、台湾に別亜種（あしゅ）がいる。",
+        "category": "ほ乳類",
+        "size": "19～23cm"
+    },
+    {
+        "animalId": "an_0046",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0048.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0048/640_480.jpg",
+        "name": "コヨーテ",
+        "description": "よく遠ぼえをする。大きなものはオオカミとまちがえやすいが、オオカミは尾のつけ根を少し上げ、コヨーテは尾を下げて歩くので見分けられる。夫婦が単独でくらす。子が親元に残ることもあるが、ヘルパーとはならないようである。鳥や小動物、ときに死肉も食べる。",
+        "category": "ほ乳類",
+        "size": "70～125cm"
+    },
+    {
+        "animalId": "an_0047",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0108.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0108/640_480.jpg",
+        "name": "グラントシマウマ",
+        "description": "サバンナシマウマの亜種（あしゅ）。サバンナシマウマはオス1頭と複数のメス、それに子からなる、きずなの強い恒久的な家族群でくらす。食物を求めて平原を移動するさいは家族群が集まり、1万頭もの大群になる。雨期のあいだはヌーといっしょに平原でくらし、出産し、交尾する。",
+        "category": "ほ乳類",
+        "size": "2～2.4m"
+    },
+    {
+        "animalId": "an_0048",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0059.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0059/640_480.jpg",
+        "name": "ホッキョクグマ",
+        "description": "体色は一年中白色か淡黄色。海が凍結するとアザラシを求めて氷の上に出る。魚、セイウチ、ジャコウウシなどを食べる。けっこう敏しょうで、短距離ならばトナカイなどをつかまえることもある。冬眠はせず、雪洞の中で出産する。母子か単独で生活している。",
+        "category": "ほ乳類",
+        "size": "オス2.2～3m　メス2～2.5m"
+    },
+    {
+        "animalId": "an_0049",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0080.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0080/640_480.jpg",
+        "name": "ジャガー",
+        "description": "木登りと泳ぎがじょうずで、クビワペッカリー、パカラナ、アグーチ、バク、カメ、ワニなどを食べる。人をおそうことがあり、恐れられている。インカ帝国では神聖な動物とされ、神殿にはジャガーの模様が使われた。20世紀になってから、北アメリカでは絶滅した。",
+        "category": "ほ乳類",
+        "size": "120～180cm"
+    },
+    {
+        "animalId": "an_0050",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0103.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0103/640_480.jpg",
+        "name": "ジュゴン",
+        "description": "尾びれはクジラに似て、マナティーの扇形とは異なる。眼は小さく、耳も小さな穴のみ。前足はひれ状で後ろ足は退化している。沿岸のアマモなどの海草を食べる。頭頂に気孔が二カ所あり、5～10分間隔で空気を吸いに水面に浮上する。授乳の姿から人魚伝説が生まれた。環境省のレッドリストの絶滅危惧Ⅰ類に指定されている。",
+        "category": "ほ乳類",
+        "size": "1～4m"
+    },
+    {
+        "animalId": "an_0051",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0068.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0068/640_480.jpg",
+        "name": "シマスカンク",
+        "description": "頭から尾にかけて、おもに2本に分かれた白線がある。北アメリカではごく普通に見られるスカンク。夕暮れから夜明けにかけてえさをあさる。肛門腺から悪臭の液体を発し、2～7メートルも飛ばす。これが眼に入ると失明することもある。においは何時間も消えない。",
+        "category": "ほ乳類",
+        "size": "28～38cm"
+    },
+    {
+        "animalId": "an_0052",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0087.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0087/640_480.jpg",
+        "name": "セイウチ",
+        "description": "耳と尾はない。地域によって差はあるが、牙の長さはオスが30～60センチメートル、メスは20～40センチメートル。上くちびると鼻の下には、太くて短いひげが生える。このひげで海底の二枚貝をさがし当て、牙で掘りおこして食べる。",
+        "category": "ほ乳類",
+        "size": "オス2.9～3.2m　メス2.5～2.7m"
+    },
+    {
+        "animalId": "an_0053",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0083.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0083/640_480.jpg",
+        "name": "チーター",
+        "description": "動物界のスピード記録保持者。最高時速は110キロメートルほどだが、最長でも500メートルほどしか走れない。頭が小さく、体全体がスマートで、走るのに適している。つめはほかのネコのようには引っこまず、木登りはへた。子は黒灰色で、ハイエナに似たたてがみがある。",
+        "category": "ほ乳類",
+        "size": "120～150cm"
+    },
+    {
+        "animalId": "an_0054",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0115.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0115/640_480.jpg",
+        "name": "ツチブタ",
+        "description": "かたいアリ塚を簡単に掘って穴をあける。管（くだ）のようなの口から粘液にぬれた30センチメートルほどの長い舌を出し、シロアリやアリをなめとって食べる。また鼻づらを地面につけてジグザグに歩き、においと音で移動中のアリの群れをさがす。地中に深い穴を掘り、単独でくらす。夜行性。",
+        "category": "ほ乳類",
+        "size": "100～130cm"
+    },
+    {
+        "animalId": "an_0055",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0124.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0124/640_480.jpg",
+        "name": "トナカイ",
+        "description": "シカ類では唯一、つのがオスとメスともにある。オスは発情期になると、のどの下部に白い長毛が密生する。群れで生活し、数万頭の大群で季節移動する。暖かい季節には草や小動物などを食べる。食物のない冬には、厚くつもった雪を掘り、ハナゴケ類などの地衣類を食べる。",
+        "category": "ほ乳類",
+        "size": "1.2～2.2m"
+    },
+    {
+        "animalId": "an_0056",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0074.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0074/640_480.jpg",
+        "name": "ブチハイエナ",
+        "description": "死肉が主食の「掃除屋」だと思われがちだが、ブチハイエナは実際には有能なハンターである。数頭のグループで共同で狩りをするが、その数はえものの大きさによってちがう。えものを仲間と争いながら食べるときの声は、人間の笑い声に似る。",
+        "category": "ほ乳類",
+        "size": "130～180cm"
+    },
+    {
+        "animalId": "an_0057",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0147.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0147/640_480.jpg",
+        "name": "アメリカビーバー",
+        "description": "後ろ足に水かきがある。尾はげっ歯類最大で、丸くて平たく、泳ぐときのひれとなる。危険がせまると水面を尾でたたき、音を立てる。毛は防水性で、下毛が厚く柔らかい。泳ぎともぐりが得意で15分ほどももぐる。ダムをつくり、水中から出入りできる巣を水辺につくる。",
+        "category": "ほ乳類",
+        "size": "80～120cm"
+    },
+    {
+        "animalId": "an_0058",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0076.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0076/640_480.jpg",
+        "name": "ピューマ",
+        "description": "体色は灰色、黄かっ色など。子には黒い斑点がある。白い鼻づらとあごが特徴。環境に適応し、広く分布している。シカ類などを主食としている。ジャガーとちがい、人をおそうことは少ない。森で道に迷った旅人を安全なところへと導き、助けたという伝説がある。",
+        "category": "ほ乳類",
+        "size": "100～197cm"
+    },
+    {
+        "animalId": "an_0059",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0006.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0006/640_480.jpg",
+        "name": "フクロモモンガ",
+        "description": "耳が大きく、ニホンモモンガに似ている。前足と後ろ足のあいだに飛膜があり、空中を滑空することができる。飛行距離は約55メートル。背は灰色、腹は淡色。鼻の上から背にかけて黒線がある。夜行性で、日中は木のうろにひそんでいる。昆虫や花、果汁などを食べる。",
+        "category": "ほ乳類",
+        "size": "14～18cm"
+    },
+    {
+        "animalId": "an_0060",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0079.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0079/640_480.jpg",
+        "name": "マサイライオン",
+        "description": "百獣の王といわれる。ネコ科動物としては珍しく、プライドという家族や親類一門の群れでくらし、メスたちは協力し合って狩りや子育てをする。オスにはたてがみがある。子には斑点があり、成長すると消える。プライドを乗っ取ったオスは、子殺しをすることがある。",
+        "category": "ほ乳類",
+        "size": "オス2.6～3.3m　メス2.4～2.7m"
+    },
+    {
+        "animalId": "an_0061",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0011.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0011/640_480.jpg",
+        "name": "アカカンガルー",
+        "description": "オスの背は栗色か黄かっ色、メスは青灰色。鼻先の下から眼の下まで白い模様があり、その下にさらに茶かっ色の模様があり、ひげのように見える。10～100頭の群れをつくる。歩幅は普通1～2メートルだが、全力で走るときは9メートルにもなる。写真はメス2頭。",
+        "category": "ほ乳類",
+        "size": "オス130～160cm　メス80～110cm"
+    },
+    {
+        "animalId": "an_0062",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0061.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0061/640_480.jpg",
+        "name": "アライグマ",
+        "description": "木登りや水泳がじょうず。歩くときには、腰が背よりも高い位置にくる。夜行性。カニ、ザリガニ、魚、カエル、果実、昆虫などなんでも食べる。飼育下では物を洗って食べるが、これは狩りの疑似行動で、野生ではやらない。4月～6月に3～4頭の子を出産する。日本にも移入し、野生化している。",
+        "category": "ほ乳類",
+        "size": "40～60cm"
+    },
+    {
+        "animalId": "an_0063",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0016.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0016/640_480.jpg",
+        "name": "ココノオビアルマジロ",
+        "description": "頭は細長い三角形。土中に巣穴を掘る。夜行性。甲虫、小動物、死肉、果実などを食べる。帯は8～11本。南アメリカの大半の地域に分布し、北アメリカにまで生息するのはこのアルマジロだけである。写真では後ろにもう1頭いる。尾が2本あるわけではない。",
+        "category": "ほ乳類",
+        "size": "35～57cm"
+    },
+    {
+        "animalId": "an_0064",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0134.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0134/640_480.jpg",
+        "name": "オグロヌー",
+        "description": "普通は10頭から数百頭の群れでくらし、ガゼル、インパラ、シマウマなどの群れとともにいることも多い。繁殖期である乾期には数十万頭の大群となり、季節移動をする。この大集団はオオカミの群れなどとはちがい、個体どうしのきずなも社会的な構造もほとんどない。",
+        "category": "ほ乳類",
+        "size": "1.7～2.4m"
+    },
+    {
+        "animalId": "an_0065",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0084.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0084/640_480.jpg",
+        "name": "ガラパゴスオットセイ",
+        "description": "アシカ科の中で最も小さい。ひたいは平らで鼻づらは短く、眼が大きい。岩かげや洞穴、浅い水たまりで昼寝をする。体温が上がると海に入って体を冷やす。オスは波打ちぎわになわばりをつくり、メスは出産1週間後から交尾をする。",
+        "category": "ほ乳類",
+        "size": "オス154cm　メス120cm"
+    },
+    {
+        "animalId": "an_0066",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0002.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0002/640_480.jpg",
+        "name": "カモノハシ",
+        "description": "足に水かきがあり、尾は平ら。オスは後ろ足のけづめから毒液を出す。泳ぎがうまく、水中に5分間もぐっていられる。カモに似たくちばしで微弱な電気を感知し、小エビなどのえものをさがす。土手の中腹に巣穴を掘り、その奥で卵を2個産む。ふ化した子は乳汁で育てる。",
+        "category": "ほ乳類",
+        "size": "30～45cm"
+    },
+    {
+        "animalId": "an_0067",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0025.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0025/640_480.jpg",
+        "name": "ワオキツネザル",
+        "description": "体色は灰色、長い尾は白と黒のしま模様になっている。顔がキツネに似ている。昼行性で、5～30頭の群れで集団生活をする。メスが優位であることが多い。群れの全員が木の枝に集まって、毛づくろいをしたりする。おもに樹上で採食するが、地上移動もする。",
+        "category": "ほ乳類",
+        "size": "39～46cm"
+    },
+    {
+        "animalId": "an_0068",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0098.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0098/640_480.jpg",
+        "name": "シロイルカ",
+        "description": "子は暗かっ色で、2歳で灰色となり、成熟すると白色になる。背びれがない。おもに魚を食べる。普通は2～15頭の小群で行動し、社会性が強い。頭を左右に90度以上も曲げることができ、首に深いしわができる。体を砂利などにこすりつける奇妙な行動をとる。",
+        "category": "ほ乳類",
+        "size": "3～5m"
+    },
+    {
+        "animalId": "an_0069",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0046.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0046/640_480.jpg",
+        "name": "キンイロジャッカル",
+        "description": "全体に黄かっ色に見えるので「キンイロ」と名づけられたようだ。セグロジャッカルやヨコスジジャッカルに比べ生息分布がとても広い。おもに夜行性。果実や小鳥、小動物などを食べ、死肉をあさる「掃除屋」でもある。夫婦とヘルパーとでくらし、子育てをする。",
+        "category": "ほ乳類",
+        "size": "60～75cm"
+    },
+    {
+        "animalId": "an_0070",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0015.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0015/640_480.jpg",
+        "name": "フタユビナマケモノ",
+        "description": "体は黄灰色の長い毛でおおわれる。頭は丸く、耳は毛に隠れて見えにくい。前足の指は2本、後ろ足の指は3本。つめはかぎづめで長く、75ミリメートルほど。樹上性で木の葉を食べる。体を丸めて木にぶらさがっていることが多い。1週間に1回木の下におりて、糞（ふん）をする。",
+        "category": "ほ乳類",
+        "size": "55～86cm"
+    },
+    {
+        "animalId": "an_0071",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0072.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0072/640_480.jpg",
+        "name": "ハクビシン",
+        "description": "木登りがうまく、カキやミカンを好み、小動物や鳥、鳥の卵なども食べる。日本古来の動物なのか、外国からの移入によるものなのかは、よくわかっていない。夜行性だが、昼間活動することもある。木のうろなどで子育てをするが、父親は近くの別の樹上などで眠る。",
+        "category": "ほ乳類",
+        "size": "50～65cm"
+    },
+    {
+        "animalId": "an_0072",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0017.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0017/640_480.jpg",
+        "name": "ナミハリネズミ",
+        "description": "足には強大なつめがある。夜行性で雑食性。10月から4月頃まで冬眠する。普通のネズミのように、人の居住域にも生息している。周囲のものをなめ、その刺激によって泡状のだ液が出ると、それを舌で針状の毛に20分くらいぬりつける習性がある。",
+        "category": "ほ乳類",
+        "size": "25～30cm"
+    },
+    {
+        "animalId": "an_0073",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0104.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0104/640_480.jpg",
+        "name": "アメリカマナティー",
+        "description": "よく似ているジュゴンの尾びれはクジラ型だが、マナティーは扇形。いずれも人魚にまちがわれ、親しまれていたが、密猟や赤潮の被害により激減した。現在フロリダ半島には、推定1000頭ほどが生息している。夏は海に、冬は発電所の温水の流れる川や湧水の出る湖沼に集まる。水中で授乳し、4～5分間隔で空気を吸いに水面に浮上する。",
+        "category": "ほ乳類",
+        "size": "2.4～4.5m"
+    },
+    {
+        "animalId": "an_0074",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0073.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0073/640_480.jpg",
+        "name": "シママングース",
+        "description": "アリ塚や岩の割れ目を巣にし、6～30頭の群れでくらす。複数のメスが同時期に子を産む。日中に行動し、朝になるとえさをさがしに出かけるが、優位なメスがリーダーシップをとる。その際は交代で数頭が巣に残り、子守りをする。危険が近づくとすばやく穴に逃げこむ。",
+        "category": "ほ乳類",
+        "size": "30～45cm"
+    },
+    {
+        "animalId": "an_0075",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0154.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0154/640_480.jpg",
+        "name": "モルモット",
+        "description": "家畜種。マーモットとまちがって名づけられたといわれる。足は短く、前足の指は4本で、後ろ足の指は3本。体は丸く尾がない。体重は約500グラム、体長は25～30センチメートルほど。草食性。南アメリカのペルーテンジクネズミが原種といわれる。モルモットの肉はブタ肉に味が似ており、南アメリカのインディオたちは3000年以上にわたり、食肉用として飼育していた。現在は世界中で飼育されているが、野生種は現存しない。",
+        "category": "ほ乳類",
+        "size": null
+    },
+    {
+        "animalId": "an_0076",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0043.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0043/640_480.jpg",
+        "name": "チンパンジー",
+        "description": "成長につれて眼の上が張り出してくる。20歳をこえると背は灰色となる。地上では手の甲をついて歩く（ナックルウォーキング）が、後ろ足2本でも歩く。20～100頭の大きな集団をつくる。食物は果実が基本だが、サルや有蹄類などを狩って食べることもある。",
+        "category": "ほ乳類",
+        "size": "オス77～92cm　メス70～85cm"
+    },
+    {
+        "animalId": "an_0077",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/mammals/0062.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/mammals/0062/640_480.jpg",
+        "name": "レッサーパンダ",
+        "description": "主食はタケの葉やタケノコだが、ドングリなどの木の実やキノコなども食べる。地上でえさをとるが1日の半分以上は樹上で休んでいる。手のひらにこぶがあり、物をもちやすいようになっている。交尾期や子育てのとき以外は単独で生活する。特定の場所に糞（ふん）をする。",
+        "category": "ほ乳類",
+        "size": "50～60cm"
+    },
+    {
+        "animalId": "an_0078",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0034.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0034/640_480.jpg",
+        "name": "アヒル",
+        "description": "野生のマガモを飼育して改良したもの。中国やヨーロッパなどで、それぞれ飼育化された。おもに卵用のカーキーキャンベル、インディアンランナー、肉用のペキン、ルーアン、青首などの品種がある。最近ではペット用のミニチュアアヒルなども改良されている。飼育しやすく、水鳥だが、池などがなくても飼うことができる。",
+        "category": "鳥類",
+        "size": "約59cm"
+    },
+    {
+        "animalId": "an_0079",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0005.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0005/640_480.jpg",
+        "name": "ケープペンギン",
+        "description": "フンボルトペンギン、マゼランペンギン、ガラパゴスペンギンによく似ているが、顔の白い部分が最も広いので見分けることができる。巣は土のあるところでは穴を掘り、岩場では岩のすきまにつくる。潜水して魚をとらえて食べる。繁殖地の近くでタンカー事故のために原油が流出し、数十万羽のケープペンギンが死んだことがあり、生息数が急激に減少している。ジャッカスペンギンとよばれることもある。",
+        "category": "鳥類",
+        "size": "約63cm"
+    },
+    {
+        "animalId": "an_0080",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0081.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0081/640_480.jpg",
+        "name": "ドバト",
+        "description": "飼育されていたデンショバトが野生化したものなので、体の色や模様はさまざま。野生種のカワラバトは、尾の先端が黒く、翼に2本の黒い線がある。おもに市街地の建造物に巣をつくり、公園や神社、寺院、駅周辺の広場などにすむ。港の穀物倉庫周辺に大群がすむこともある。卵は2個産むだけだが、1年を通じて何回も繁殖している。",
+        "category": "鳥類",
+        "size": null
+    },
+    {
+        "animalId": "an_0081",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/reptiles/0052.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/reptiles/0052/640_480.jpg",
+        "name": "エボシカメレオン",
+        "description": "湿度の高い林にすむ。頭に烏帽子（えぼし）のような突起があり、オスの突起は大きい。背中と、のどから腹部にかけてぎざぎざのうろこが並ぶ。体色は緑色で、白やかっ色の斑紋がある。興奮すると体をふくらませてシューシューと音を立て、体色のコントラストも強くなる。一度に20～72個の卵を産む。150～200日でふ化する。",
+        "category": "は虫類",
+        "size": "オス65cm、メス45cm"
+    },
+    {
+        "animalId": "an_0082",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/reptiles/0011.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/reptiles/0011/640_480.jpg",
+        "name": "アカウミガメ",
+        "description": "おもに沿岸域にすむが、若い個体は海流にのって回遊生活をしているらしい。体色は赤かっ色から黄かっ色で背甲はハート形。温帯で繁殖する唯一のウミガメで、日本でも関東・北陸以西の海岸に産卵する。産卵場の沖で交尾をし、2～3週間おきに数回、一度に120個ほどの卵を産む。おもに軟体動物や甲殻類を食べる雑食性。環境省のレッドリストの絶滅危惧ⅠB類に指定されている。",
+        "category": "は虫類",
+        "size": "70～210cm"
+    },
+    {
+        "animalId": "an_0083",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/reptiles/0106.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/reptiles/0106/640_480.jpg",
+        "name": "イリエワニ",
+        "description": "マングローブの生える入り江などに多くすむ。舌に特殊な腺があって、よぶんな塩分を排出できる。このため沖合を泳ぐこともあり、海流にのって島々に分布を広げることができる。過去に八丈島への漂着記録もある。人をおそうこともあるが、良質の皮革目的に狩られ、各地で生息数が激減している。塚（つか）をつくって産卵する。",
+        "category": "は虫類",
+        "size": "220～600cm"
+    },
+    {
+        "animalId": "an_0084",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/reptiles/0084.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/reptiles/0084/640_480.jpg",
+        "name": "シマヘビ",
+        "description": "乾燥した草原に多く、日本各地にいる。体色は淡かっ色で、黒かっ色のすじが4本入るが、色彩変異（へんい）も多く「からすへび」とよばれる全身が黒色の個体もいる。尾で地面をたたいて威嚇（いかく）する。動きはすばやく、木にも登る。カエルやトカゲ、ネズミなどを食べる。交尾をする4～5月にはコンバットも行なう。7～8月に卵を産む。",
+        "category": "は虫類",
+        "size": "80～120cm"
+    },
+    {
+        "animalId": "an_0085",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/amphibians/0020.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/amphibians/0020/640_480.jpg",
+        "name": "イエアメガエル",
+        "description": "水辺に近い森林や草地にすむ。樹上でくらすが、地上でも活動し、人家のまわりにも現れる。成熟すると鼓膜の上におおいかぶさるほど皮ふがたるむ。体が大きく、動きはのろい。繁殖期になると草のしげった水たまりなどに集まって産卵する。オスの鳴き声はよく響き、数百メートル離れていても聞こえる。鳥やネズミなども食べる。",
+        "category": "両生類",
+        "size": "70～110mm"
+    },
+    {
+        "animalId": "an_0086",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/fish/0022.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/fish/0022/640_480.jpg",
+        "name": "コイ",
+        "description": "全国的に移殖放流がくりかえされてきたので交雑が進み野鯉といえる野生種が生息する場所は少なく、琵琶湖、霞ヶ浦、四万十川などで確認されているにすぎない。一般に野生種は養殖種より体高が低く体色も赤みが強い。産卵期は初夏でフナの仲間より1カ月おそい。",
+        "category": "魚類",
+        "size": "30～50cm"
+    },
+    {
+        "animalId": "an_0087",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/fish/0168.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/fish/0168/640_480.jpg",
+        "name": "マンボウ",
+        "description": "外洋の表層を遊泳する魚で超大型になる（写真の個体は約1メートル）。伊豆半島や房総半島では冬期まれに水中で出会うことがある。おとなしい魚であるが、大型魚は鋭利な歯をもっているので、口の中に手をいれたりしないように注意したい。クラゲやイカなどが好物で吸いこむようにして食べる。",
+        "category": "魚類",
+        "size": "3m"
+    },
+    {
+        "animalId": "an_0088",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/fish/0057.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/fish/0057/640_480.jpg",
+        "name": "メダカ",
+        "description": "10数年前なら、あちこちの川で普通に見られた。現在では飼育種のヒメダカをメダカと思っている子どもも多い。本物のメダカは背のほうから見ると黒かっ色。オス（写真下）はしりびれが平行四辺形で幅が広いが、メス（写真上）では後端がせまくなっている。産卵期は春～夏で、早朝産卵する。環境省のレッドリストの絶滅危惧Ⅱ類に指定されている。",
+        "category": "魚類",
+        "size": "2～3cm"
+    },
+    {
+        "animalId": "an_0089",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/insect/0021.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/insect/0021/640_480.jpg",
+        "name": "カブトムシ",
+        "description": "日本の甲虫の王様。つのまで含めた大きさは日本最大。オスはメスや食事の場を争って、つのを突き合わせてたたかう。夜行性で昼間は木の根元などで休んでいて、日没後に活動する。おもな食事はクヌギの樹液。だからカブトムシにあうためには、昼の雑木林で樹液の出ている場所をさがしておき、夜9時頃に行ってみるのがよい。メスは腐植土（ふしょくど）の中に卵を産む。",
+        "category": "昆虫",
+        "size": "30～50mm（オスのつのはのぞく）"
+    },
+    {
+        "animalId": "an_0090",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/insect/0084.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/insect/0084/640_480.jpg",
+        "name": "キアゲハ",
+        "description": "草原性のチョウで、日当たりのよい場所を好む。草原や水田の周辺など明るい場所に多く、オスは山の頂上でなわばりを張っているのもよく見かける。アゲハに似ているが、羽の地色が黄色っぽく、前羽のつけ根が黒いので区別できる。幼虫はセリ科植物を食べる。都会のまん中では見かけないが、これは草原がないことと、食草がないことによる。",
+        "category": "昆虫",
+        "size": "春型90mm　夏型100mm"
+    },
+    {
+        "animalId": "an_0091",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/invertebrate/0039.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/invertebrate/0039/640_480.jpg",
+        "name": "ケガニ",
+        "description": "体はとがった粒々と短い毛におおわれている。ケガニ、オオクリガニなどとよばれる理由がよく分かる外見だ。水産上の重要種でおいしいカニとして有名。甲らも脚（あし）の殻（から）も、タラバガニやズワイガニなどに比べて薄くやわらかいので食べやすい。春の産卵期には浅い海にも現れ、交尾前に脱皮するので、ときどきその抜けがらを発見することがある。",
+        "category": "無せきつい動物",
+        "size": "100～150mm（甲長）"
+    },
+    {
+        "animalId": "an_0092",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/invertebrate/0012.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/invertebrate/0012/640_480.jpg",
+        "name": "ハダカカメガイ（クリオネ）",
+        "description": "巻貝だが殻（から）をまったく持たず、赤い内臓が透けて見える。海中を遊泳しながら、ミジンウキマイマイなど浮遊性の巻貝をつかまえて食べる。属の学名に由来する通称のクリオネはギリシャ神話の海の妖精「クリオ」がもとになっており、泳ぐ姿は妖精のようだ。しかし、えさをとる姿はすさまじく、頭頂部がまっ二つに割れて長い触手（しょくしゅ）が口から飛び出し、えものをつかまえる。触手の根元には鋭い突起があって、ヒトでいえば歯の役割をする。",
+        "category": "無せきつい動物",
+        "size": "20mm（全長）"
+    },
+    {
+        "animalId": "an_0093",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0072.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0072/640_480.jpg",
+        "name": "カモメ",
+        "description": "くちばしと足が黄緑色。ウミネコは尾に黒い帯があるが、カモメの尾は白い。尾の白いオオセグロカモメ、セグロカモメは黄色いくちばしに赤い模様がある。海岸、湾などにやってくるが、ウミネコ、ユリカモメなどより少ない。死んだ魚や生ゴミなどを食べる。飛びながらえさをさがし、見つけると水面までまいおり、くちばしでくわえる。",
+        "category": "鳥類",
+        "size": null
+    },
+    {
+        "animalId": "an_0094",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0043.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0043/640_480.jpg",
+        "name": "クマタカ",
+        "description": "大型のタカで、頭に短い冠羽（かんむりばね）があり、後頭部がとがって見える。翼が長く幅も広いので、畳（たたみ）が飛んでいるようだ。尾に黒と白の帯がある。山地のしげった林にすむ。林の上空をソアリング飛行することがあるが、えものをねらうときには待ちぶせ型で、葉のかげでじっと待つ。ノウサギやキジなどのほか、ヘビ類もとる。環境省のレッドリストの絶滅危惧IB類に指定されている。",
+        "category": "鳥類",
+        "size": null
+    },
+    {
+        "animalId": "an_0095",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0014.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0014/640_480.jpg",
+        "name": "コシグロペリカン",
+        "description": "オーストラリア各地の海岸、大きな湖、島などにすんでいる。繁殖期には、海岸などに近い林に集団で巣をつくる。コシグロペリカンは2とおりのえさのとり方をする。一つは、空中から水にダイビングして、そのときくちばしを開いて魚と水をいっしょに口の中にいれ、水だけを出して魚を残す。もう一つは、水面に浮かんだ状態で、くちばしを水の中にいれ、魚をすくいとる方法だ。",
+        "category": "鳥類",
+        "size": "約 150cm"
+    },
+    {
+        "animalId": "an_0096",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/fish/0012.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/fish/0012/640_480.jpg",
+        "name": "オニイトマキエイ",
+        "description": "プランクトンを主食とするおとなしいエイで、別名マンタとよばれダイバーに人気がある。サンゴ礁の水道や水路とよばれるところに出没するので、通過するのを待ってウオッチングできる。ホバリングするクリーニングポイントではなおゆっくり観察できる。",
+        "category": "魚類",
+        "size": "6.7m"
+    },
+    {
+        "animalId": "an_0097",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0051.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0051/640_480.jpg",
+        "name": "インドクジャク",
+        "description": "クジャク類には、インドクジャクのほかにマクジャクがいる。動物園などで飼育されているのはインドクジャクが多いようだ。マクジャクは冠羽（かんむりばね）が1本に見えるので、クラウン状のインドクジャクと区別できる。生活はおもに地上で、草の種子などを食べている。木の根元などに巣をつくり、子育ての時期以外は木の枝で眠る。オスは上尾筒（じょうびとう）がかざり羽になっていて、それを扇状に広げて誇示行動をとる。",
+        "category": "鳥類",
+        "size": "オス約254cm、メス約100cm"
+    },
+    {
+        "animalId": "an_0098",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/birds/0125.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/birds/0125/640_480.jpg",
+        "name": "ウグイス",
+        "description": "全身がオリーブ色がかった茶かっ色。オスはメスより一回り大きいが、色は同じである。似ているセンダイムシクイは、ウグイスより緑色が強い。平地から山地のササのしげった林にすむ。冬には市街地などの公園や庭などにもやってくる。背中の線が水平に近くなる角度でとまり、翼をパッパッと広げる。昆虫を食べ、冬には木の実も食べる。",
+        "category": "鳥類",
+        "size": null
+    },
+    {
+        "animalId": "an_0099",
+        "url": "https://kids.yahoo.co.jp/zukan/animal/kind/insect/0171.html",
+        "imgurl": "https://s.yimg.jp/i/kids/zukan/photo/animal/insect/0171/640_480.jpg",
+        "name": "アキアカネ",
+        "description": "アカトンボの代表種。アキアカネと名前がついているものの、羽化するのは6月末である。水田などで羽化したアキアカネは山へ移動する。夏のあいだは高原ですごし、秋になると平地におりてきて産卵する。夏の高原で無数に見られるトンボはほとんどがアキアカネである。このころは体色はオレンジ色で、秋が深まると成熟して赤くなる。",
+        "category": "昆虫",
+        "size": null
+    }
+]
